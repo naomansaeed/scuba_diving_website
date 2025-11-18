@@ -36,3 +36,31 @@ a{
 #merits{
     margin: 3% 5%;
 }
+
+.grid-box{
+    border: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.merit-segment{
+    background: lightblue;
+    border: 0;
+    border-radius: 25px;
+}
+
+.emot{
+    text-align: center;
+    font-size: 48px;
+}
+
+.sgmt-title{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.sgmt-dscrp{
+    text-align: center;
+    padding: 2% 1%;
+}
