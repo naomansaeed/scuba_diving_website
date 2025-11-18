@@ -6,11 +6,11 @@ body{
 #hero-section{
     background-image: url("images/underwater.jpg");
     background-size: cover;
-    height: 500px;
+    height: 400px;
     padding: 10px 0 40px 0;
 }
 
-#main{
+.main{
     margin-top: 3%;
     margin-left: 5%;
     color: white;
@@ -19,4 +19,20 @@ body{
 h1{
     font-size: 48px;
     font-weight: bold;
+}
+
+button{
+    padding: 13px 17px;
+    background: #0a5f7f;
+    color: white;
+    border: 0px solid #0a5f7f;
+    border-radius: 25px;
+}
+
+a{
+    color: aliceblue;
+}
+
+#merits{
+    margin: 3% 5%;
 }
