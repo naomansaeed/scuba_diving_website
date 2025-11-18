@@ -71,3 +71,13 @@ a{
     border-radius: 25px;
     padding: 3%;
 }
+
+#profile{
+    width: 150px;
+    border: 1px solid black;
+    border-radius: 150px;
+}
+
+.rgt-algn{
+    text-align: right;
+}
